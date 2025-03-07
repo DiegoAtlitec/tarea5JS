@@ -1,5 +1,5 @@
 // Introducción a JavaScript
-// Tarea 4 : 
+// Tarea 5 : 
 
 function Libro(titulo, autor, anio, estado = 'disponible') {
     this.titulo = titulo;
